@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 class Student {
     int rollNo;
     String name;
