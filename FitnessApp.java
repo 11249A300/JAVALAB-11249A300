@@ -1,3 +1,4 @@
+
 import java.io.*;
 public class FitnessApp {
     public static void main(String[] args){
