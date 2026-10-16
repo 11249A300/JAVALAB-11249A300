@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class railway{
     public static void main (String[] args ){
         String[ ] trainCodes = { " EXP101","SF102","PASS303","RAJ404"};
