@@ -1,6 +1,6 @@
 # JAVA PROGRAMMING LAB
 
-Name            : PUJARI HEMESH
+Name             : PUJARI HEMESH
 
 
 
